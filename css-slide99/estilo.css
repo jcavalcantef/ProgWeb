@@ -1,0 +1,17 @@
+body{
+	background-color: #00ffff
+}
+img{
+	position: absolute;
+	margin: 0px 50px -3px 400px;
+	height: 650px;
+	width: 600px;
+}
+div{
+	text-indent: 15%;
+	position: absolute;
+	margin: 80px 70px 60px 450px;
+	border: 10px solid black;
+	padding: 10px;
+	background-color: #eeeeff;
+}
