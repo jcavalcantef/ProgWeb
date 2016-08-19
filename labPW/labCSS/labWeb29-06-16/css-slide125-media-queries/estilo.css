@@ -1,0 +1,80 @@
+	.container{
+		width: 100%;
+	}
+
+	.topo {
+	    border: 1px solid black;
+	    background:url(logo.png);
+	    background-repeat: no-repeat;
+	    background-color: gray;
+	    margin-bottom: 2%;
+	}
+
+	#titulo{
+		text-align: center;
+	}
+
+	.menu{
+		width: 15%;
+		float: left;
+		margin-right: 1%;
+	}
+	li{
+		background-color: #00bfff;
+		margin: 10% 0% 15% 0%;
+		margin-left: -30px;
+		padding: 12%;
+		width: 100%;
+	
+		list-style-type: none;
+		overflow: hidden;
+		
+	}
+	#link{
+		
+	}
+
+	#middleText{
+		margin: 1%;
+		width: 55%;
+		float: left;
+	}
+
+	#rightText{
+		background-color: #00bfff;
+		margin: 0% 1% 0% 1%;
+		width: 20%;
+		float: left;
+		padding: 1%;		
+		height: 100%;
+	}
+
+@media screen and (min-width: 781px){
+
+}
+
+@media screen and (max-width: 640px){
+	body{
+		width: 600px;
+	}
+	.topo{
+		width: 100%;
+	}
+	.menu{		
+		width: 100%;
+		margin-left: -7%;
+	}
+	li{		
+		width: 95%;
+		padding: 2%;
+		margin: 2%;
+	}
+	#middleText{
+		width: 90%;	
+	}
+	#rightText{
+		padding: 3%;
+		width: 90%;
+	}	
+
+}
