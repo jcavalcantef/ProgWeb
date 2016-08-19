@@ -1,0 +1,30 @@
+Primeiro erro: 
+	linha 05
+		O meta charset deveria estar dentro da tag <head> </head> para poder surgir efeito 
+		Sem a tag meta charset os acentos não iriam funcionar.
+Ex:
+
+<head>
+	<meta charset="UTF-8">
+	
+</head>
+
+Segundo Erro:
+	linha 04
+		A tag title deveria está dentro do <head></head> para poder surgir efeito
+		Sem a tag title a página não teria título
+
+Ex:
+
+<head>
+	
+	<title></title>
+</head>
+
+Terceiro Erro:
+	Linha 02
+		Os comentários em html não sao feitos dessa forma. Do jeito que está ele iria ser exibido na página. 
+
+		Forma correta seria assim:
+
+<!-- Exemplo de comentário em html -->

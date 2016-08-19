@@ -1,0 +1,16 @@
+Primeiro modo de selecionar um seletor é no fomato inline, significa que na própria tag é possível aplicar estilo da seguinte forma, desse primeiro jeito o css fica misturado com o que não é recomendado fazer.
+
+Ex: <p style=" background-color:blue;boder='2px'; ">Estou aprendendo <span class=”cl1” title=”css”>CSS</span>.</p>
+
+Segundo modo é invocando a tag style no próprio head do arquivo html da seguinte forma, esse formato também não é recomendado pois geralmente as páginas de um mesmo site possuem o mesmo estilo e desse jeito sempre irá carregar várias vezes o mesmo estilo de acordo com a navegação do usuário
+
+Ex:
+<style type="text/css" media="screen">
+	// aqui vai o conteúdo css	
+</style>
+
+Terceiro modo é o formato embarcado em que aplicamos apenas um link no head do html que irá informar o nome do arquivo.css, essa forma é a mais recomendada pois as páginas irão carregar o estilo apenas uma vez quando acessadas por páginas que possuem o mesmo link css.
+
+Ex:
+
+<link rel="stylesheet" href="estilo.css">
