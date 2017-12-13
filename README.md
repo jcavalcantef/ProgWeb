@@ -1,7 +1,7 @@
 # progweb
 
-Disciplina cursada no 6ª periodo do curso de cincia da computação, com foco no aprendizado de desenvolvimento na parte do
-FrontEnd e também no BackEnd
+Disciplina cursada no 6ª periodo do curso de ciência da computação, com foco no aprendizado de desenvolvimento na parte do
+FrontEnd e também no BackEnd.
 
 Abaixo vai um esqueleto do que o repositório contempla, cada pasta representa um laboratório feito durante a disciplina, 
 Ao todo foram 2 laboratório de CSS, 2 de JavaScript integrado com HTML para compor a parte do frontend.
