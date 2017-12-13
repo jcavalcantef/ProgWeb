@@ -7,6 +7,7 @@ Abaixo vai um esqueleto do que o repositório contempla, cada pasta representa u
 Ao todo foram 2 laboratório de CSS, 2 de JavaScript integrado com HTML para compor a parte do frontend.
 Para o desenvolvimento BackEnd foi praticado o uso de linguagem PHP através de 5 laboratórios.
 
+```bash
 ├── labCSS
 │   ├── labWeb22-06-16
 │   │   ├── css-slide93
@@ -43,3 +44,5 @@ Para o desenvolvimento BackEnd foi praticado o uso de linguagem PHP através de 
     └── labWeb30-07-16
         ├── exercicio1.php
         └── imprime.php
+        
+ ```
