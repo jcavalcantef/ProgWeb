@@ -7,6 +7,7 @@ Abaixo vai um esqueleto do que o repositório contempla, cada pasta representa u
 Ao todo foram 2 laboratório de CSS, 2 de JavaScript integrado com HTML para compor a parte do frontend.
 Para o desenvolvimento BackEnd foi praticado o uso de linguagem PHP através de 5 laboratórios.
 
+
 ```bash
 ├── labCSS
 │   ├── labWeb22-06-16
@@ -46,3 +47,18 @@ Para o desenvolvimento BackEnd foi praticado o uso de linguagem PHP através de 
         └── imprime.php
         
  ```
+
+<h3>CSS</h3>
+
+[CSS 1](https://jcavalcantef.github.io/progweb/labPW/labCSS/labWeb22-06-16/css-slide93/exercicio02-css.html)
+[CSS 2](https://jcavalcantef.github.io/progweb/labPW/labCSS/labWeb22-06-16/css-slide99/exercicio03.html)
+[CSS 1](https://jcavalcantef.github.io/progweb/labPW/labCSS/labWeb29-06-16/css-slide125-media-queries/exercicio.html)
+
+<h3>JS</h3>
+
+[JS 1](https://jcavalcantef.github.io/progweb/labPW/labJavaScript/labWeb06-07-16/slide67-javascript/exercicioJavascript.html)
+[JS 2](https://jcavalcantef.github.io/progweb/labPW/labJavaScript/labWeb06-07-16/slide74-javacript/exercicioJavaScript.html)
+
+<h3>PHP</h3>
+
+[PHP 1](https://jcavalcantef.github.io/progweb/labPW/labPHP/labWeb03-08-16/BDcomPHP/form.php)
